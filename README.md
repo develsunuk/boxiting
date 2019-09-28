@@ -1,3 +1,7 @@
-#boxing + Exciting
+# boxing + Exciting
 
 복싱 사이트
+
+# 기능 목록
+
+스파링 상대 찾기
